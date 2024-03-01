@@ -4,7 +4,7 @@ Transforming Tomorrow with Affordable Tech Solutions Today.Simplifying Lives,You
 1.	Project Demo URL: <br>
 2.	Demo Video URL: <br>
 3.	GitHub Repository URL:  https://github.com/Manohar4333/Medical-Wagon <br>
-4.	Industry :Health Care<br> 
+4.	Industry :Health Care.<br> 
 <h1> Roles and responsibilities</h1>
 1.T. Kavya Sree (project management)                 :Manages the web development project.<br>
 2.T. Manohar(Deployment)      :Deployment and maintenance of  project infrastructure.<br>
@@ -87,4 +87,4 @@ Here I am attaching the final working website's screenshot for the reference.
 
 
 <h1>Final Project Statement:</h1>
-Patients can schedule appointments for at-home medical examinations. For the patients, it is very convenient and easy to use. It provides ENT, dental, eye care and skin treatments. This innovative approach ensures that emergency medical care and examinations are accessible.
+Patients can schedule appointments for at-home medical examinations. For the patients, it is very convenient and easy to use. It provides ENT, dental, eye care and skin treatments, This innovative approach ensures that emergency medical care and examinations are accessible.
