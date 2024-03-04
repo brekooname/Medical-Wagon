@@ -20,7 +20,7 @@ Transforming Tomorrow with Affordable Tech Solutions Today.Simplifying Lives,You
 6.Azure Role Based access Control(RBAC)
 
 <h1>Problem Statement:</h1>
-These days, many find it challenging to go to the hospital due to scheduling conflicts and time restraints. The "Medical Wagon" will help customers treat their health issues and save them time by offering online consultations. Patients can schedule appointments for at-home medical examinations. For the patients, it is very convenient and easy to use. It provides ENT, dental, eye care and skin treatments. This innovative approach ensures that emergency medical care and examinations are accessible
+These days, many find it challenging to go to the hospital due to scheduling conflicts and time restraints. The "Medical Wagon" will help customers treat their health issues and save them time by offering online consultations. Patients can schedule appointments for at-home medical examinations. For the patients, it is very convenient and easy to use. It provides ENT, dental, eye care and skin treatments. This innovative approach ensures that emergency medical care and examination are accessible
 
 <h1>Project Description:</h1>
 A medical wagon is intended to offer ENT, dental, skin, and eye care services. Online doctor consultations offer patients the ease and comfort of home-based access to competent healthcare professionals. Patients can ask questions about their health, get medication refills, or have a virtual check-up. Accessing healthcare services is made easy and secure with the help of this platform.
