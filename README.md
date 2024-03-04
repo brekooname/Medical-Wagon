@@ -9,7 +9,7 @@ Transforming Tomorrow with Affordable Tech Solutions Today.Simplifying Lives,You
 1.T. Kavya Sree (project management)                 :Manages the web development project.<br>
 2.T. Manohar(Deployment)      :Deployment and maintenance of  project infrastructure.<br>
 3.K. Mukesh goud (Documentation)       :Responsible for managing the documentation process.<br>
-3.E. Vijaya lakshmi      :Responsible for managing the documentation process.<br>
+3.E. Vijaya lakshmi      :Responsible for manmaging the documentation process.<br>
 
 <h1>Azure services used:</h1>
 1.	Azure blob storage<br>
