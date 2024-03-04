@@ -26,7 +26,7 @@ These days, many find it challenging to go to the hospital due to scheduling con
 A medical wagon is intended to offer ENT, dental, skin, and eye care services. Online doctor consultations offer patients the ease and comfort of home-based access to competent healthcare professionals. Patients can ask questions about their health, get medication refills, or have a virtual check-up. Accessing healthcare services is made easy and secure with the help of this platform.
 Key Features of medical wagon :
 Expertise Professionals: Professionals in the fields of ENT, dental, skin, and eye care comprise our platform. Our experts will provide you with guidance and support based on your health issue.
-Doorstep Consultations: Our team of skilled healthcare professionals can provide doorstep consultations that will provide you with comfort and certainty. You can make an appointment to save time and obtain expert medical advice without having to leave your house.
+Doorstep Consultations: Our team of skilled healthcare professionals can provide doorstep consultations that will provide you with comfort and certainty. You can make an appointment to save time and obtain expert medical advice without having to leave your house
 Organizing Flexible Schedules:  Due to today's fast-paced lifestyle and hectic schedules, there is less time. Locate a moment of spare time that works with your schedule and make contact with an expert specialist.
 Services Prescription: Our knowledgeable experts can easily supply online prescriptions and pharmaceuticals without requiring you to leave your house.
 Secure and Private: We safeguard your privacy and confidentiality here. All of your communications with our medical professionals are secure and private, and your data is safeguarded.
