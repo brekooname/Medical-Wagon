@@ -17,7 +17,7 @@ Transforming Tomorrow with Affordable Tech Solutions Today. Simplifying Lives, Y
 3.	Azure Backup service<br>
 4.	Azure AI services<br>
 5.	chatbot<br>
-6.Azure Role Based access Control(RBAC)
+6. Azure Role Based access Control(RBAC)
 
 <h1>Problem Statement:</h1>
 These days, many find it challenging to go to the hospital due to scheduling conflicts and time restraints. The "Medical Wagon" will help customers treat their health issues and save them time by offering online consultations. Patients can schedule appointments for at-home medical examinations. For the patients, it is very convenient and easy to use. It provides ENT, dental, eye care and skin treatments. This innovative approach ensures that emergency medical care and examination are accessible.
