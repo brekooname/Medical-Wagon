@@ -1,4 +1,4 @@
-<h1>Health Wagon</h1>
+<h1>Medical Wagon</h1>
 Transforming Tomorrow with Affordable Tech Solutions Today.Simplifying Lives,Your go-to online destination for hassle-free gadget shopping, eliminating daily purchasing challenges.
 <h1>Project Details</h1>
 1.	Project Demo URL: <br>
