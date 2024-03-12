@@ -46,25 +46,15 @@ Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational 
 <img src="https://medicalwagon.z13.web.core.windows.net/" alt="Static website"/>
 
 <h3>Container</h3> 
-<img src=" " alt="Container"/>
+<img src="https://github.com/Manohar4333/Medical-Wagon/blob/main/blob_files.jpeg" alt="Container"/>
 
-<h3>Backup od Blob</h3> 
-<img src="https://github.com/Manohar4333/Medical-Wagon/blob/main/blob_files.jpeg alt="Backup blob"/>
 
 <h3>Backup Policy</h3> 
-<img src=" " alt="Back up policy"/>
+<img src="https://github.com/Manohar4333/Medical-Wagon/blob/main/backup.jpeg" alt="Back up policy"/>
 
 <h3>Role Assignment</h3> 
 <img src="https://github.com/Manohar4333/Medical-Wagon/blob/main/Role%20assignments.jpeg" alt="role assignment"/>
 
-<h3>AI Chatbot</h3> 
-<img src=" " alt="AI Chatbot"/>
-
-<h3>Test in web chat</h3> 
-<img src=" " alt="chatbot test"/>
-
-<h3>Resource Visualizer</h3> 
-<img src=" " alt="resource visualizer"/>
 
 <h1>Description</h1>
 Here I am attaching the final working website's screenshot for the reference.
