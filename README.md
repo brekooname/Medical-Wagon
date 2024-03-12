@@ -49,13 +49,13 @@ Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational 
 <img src=" " alt="Container"/>
 
 <h3>Backup od Blob</h3> 
-<img src="https://github.com/manojbachu/electro/blob/main/backup%20od%20blob.png?raw=true" alt="Backup blob"/>
+<img src=" " alt="Backup blob"/>
 
 <h3>Backup Policy</h3> 
-<img src="https://github.com/manojbachu/electro/blob/main/back%20up%20policy.png?raw=true" alt="Back up policy"/>
+<img src=" " alt="Back up policy"/>
 
 <h3>Role Assignment</h3> 
-<img src="" alt="role assignment"/>
+<img src="https://github.com/Manohar4333/Medical-Wagon/blob/main/Role%20assignments.jpeg" alt="role assignment"/>
 
 <h3>AI Chatbot</h3> 
 <img src=" " alt="AI Chatbot"/>
