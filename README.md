@@ -1,8 +1,8 @@
 <h1>Medical Wagon</h1>
 Transforming Tomorrow with Affordable Tech Solutions Today.Simplifying Lives,Your go-to online destination for hassle-free gadget shopping, eliminating daily purchasing challenges.
 <h1>Project Details</h1>
-1.	Project Demo URL: https://www.youtube.com/watch?v=9SIgMEyWuQI  <br>
-2.	Demo Video URL: <br>
+1.	Project Demo URL:https://medicalwagon.z13.web.core.windows.net/  <br>
+2.	Demo Video URL:https://www.youtube.com/watch?v=9SIgMEyWuQI  <br>
 3.	GitHub Repository URL:  https://github.com/Manohar4333/Medical-Wagon <br>
 4.	Industry :Health Care<br> 
 <h1> Roles and responsibilities</h1>
