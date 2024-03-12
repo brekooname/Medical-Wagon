@@ -43,13 +43,13 @@ Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational 
 <img src=" " alt="Storage account"/>
 
 <h3>Static Website</h3> 
-<img src=" " alt="Static website"/>
+<img src="https://medicalwagon.z13.web.core.windows.net/" alt="Static website"/>
 
 <h3>Container</h3> 
 <img src=" " alt="Container"/>
 
 <h3>Backup od Blob</h3> 
-<img src=" " alt="Backup blob"/>
+<img src="https://github.com/Manohar4333/Medical-Wagon/blob/main/blob_files.jpeg alt="Backup blob"/>
 
 <h3>Backup Policy</h3> 
 <img src=" " alt="Back up policy"/>
@@ -70,19 +70,7 @@ Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational 
 Here I am attaching the final working website's screenshot for the reference.
 <h1>Working Live Project Display:</h1>
 <h3>Home</h3> 
-<img src="" alt="Home"/>
-
-<h3>About Us</h3> 
-<img src="" alt="About Us"/>
-
-
-
-<h3>Our Treatments</h3> 
-<img src="" alt="categories"/>
-
-<h3>Our Partners</h3> 
-<img src="Contact us" alt="products"/>
-
+<img src="https://github.com/Manohar4333/Medical-Wagon/blob/main/Home_page.jpeg" alt="Home"/>
 
 
 
