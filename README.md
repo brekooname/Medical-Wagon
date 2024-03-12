@@ -1,7 +1,7 @@
-<h1>Health Wagon</h1>
+<h1>Medical Wagon</h1>
 Transforming Tomorrow with Affordable Tech Solutions Today.Simplifying Lives,Your go-to online destination for hassle-free gadget shopping, eliminating daily purchasing challenges.
 <h1>Project Details</h1>
-1.	Project Demo URL: <br>
+1.	Project Demo URL: https://www.youtube.com/watch?v=9SIgMEyWuQI  <br>
 2.	Demo Video URL: <br>
 3.	GitHub Repository URL:  https://github.com/Manohar4333/Medical-Wagon <br>
 4.	Industry :Health Care<br> 
@@ -40,13 +40,13 @@ Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational 
 <h1>Screenshot’s:</h1>
 
 <h3>Storage Account</h3> 
-<img src="https://github.com/manojbachu/electro/blob/main/storage%20account.jpg.png?raw=true" alt="Storage account"/>
+<img src=" " alt="Storage account"/>
 
 <h3>Static Website</h3> 
-<img src="https://github.com/manojbachu/electro/blob/main/staticwebsite.jpg.png?raw=true" alt="Static website"/>
+<img src=" " alt="Static website"/>
 
 <h3>Container</h3> 
-<img src="https://github.com/manojbachu/electro/blob/main/container.jpg.png?raw=true" alt="Container"/>
+<img src=" " alt="Container"/>
 
 <h3>Backup od Blob</h3> 
 <img src="https://github.com/manojbachu/electro/blob/main/backup%20od%20blob.png?raw=true" alt="Backup blob"/>
@@ -55,16 +55,16 @@ Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational 
 <img src="https://github.com/manojbachu/electro/blob/main/back%20up%20policy.png?raw=true" alt="Back up policy"/>
 
 <h3>Role Assignment</h3> 
-<img src="https://github.com/manojbachu/electro/blob/main/role%20assignment.jpg.png?raw=true" alt="role assignment"/>
+<img src="" alt="role assignment"/>
 
 <h3>AI Chatbot</h3> 
-<img src="https://github.com/manojbachu/electro/blob/main/AI%20Chagbot.png?raw=true" alt="AI Chatbot"/>
+<img src=" " alt="AI Chatbot"/>
 
 <h3>Test in web chat</h3> 
-<img src="https://github.com/manojbachu/electro/blob/main/chat%20bot%20text.png?raw=true" alt="chatbot test"/>
+<img src=" " alt="chatbot test"/>
 
 <h3>Resource Visualizer</h3> 
-<img src="https://github.com/manojbachu/electro/blob/main/resource%20visualizer.png?raw=true" alt="resource visualizer"/>
+<img src=" " alt="resource visualizer"/>
 
 <h1>Description</h1>
 Here I am attaching the final working website's screenshot for the reference.
