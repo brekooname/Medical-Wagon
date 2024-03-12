@@ -40,10 +40,10 @@ Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational 
 <h1>Screenshot’s:</h1>
 
 <h3>Storage Account</h3> 
-<img src=" " alt="Storage account"/>
+<img src="https://github.com/Manohar4333/Medical-Wagon/blob/main/Deployment_AI.jpeg" alt="Storage account"/>
 
 <h3>Static Website</h3> 
-<img src="https://medicalwagon.z13.web.core.windows.net/" alt="Static website"/>
+<img src="https://github.com/Manohar4333/Medical-Wagon/blob/main/Home_page.jpeg" alt="Static website"/>
 
 <h3>Container</h3> 
 <img src="https://github.com/Manohar4333/Medical-Wagon/blob/main/blob_files.jpeg" alt="Container"/>
