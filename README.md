@@ -50,13 +50,14 @@ Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational 
 <h3>Container</h3> 
 <img src="https://github.com/Manohar4333/Medical-Wagon/blob/main/blob_files.jpeg" alt="Container"/>
 
-
 <h3>Backup Policy</h3> 
 <img src="https://github.com/Manohar4333/Medical-Wagon/blob/main/backup.jpeg" alt="Back up policy"/>
 
 <h3>Role Assignment</h3> 
 <img src="https://github.com/Manohar4333/Medical-Wagon/blob/main/Role%20assignments.jpeg" alt="role assignment"/>
 
+<h3>chatbot</h3> 
+<img src="https://github.com/Manohar4333/Medical-Wagon/assets/69782144/4c18703d-a83c-4d30-9e5d-b07dc3a1998d" alt="chatbot"/>
 
 <h1>Description</h1>
 Here I am attaching the final working website's screenshot for the reference.
@@ -64,10 +65,6 @@ Here I am attaching the final working website's screenshot for the reference.
 <h3>Home</h3> 
 <img src="https://github.com/Manohar4333/Medical-Wagon/blob/main/Home_page.jpeg" alt="Home"/>
 
-
-
 <h1>Final Project Statement:</h1>
-<img src="https://github.com/Manohar4333/Medical-Wagon/assets/69782144/4c18703d-a83c-4d30-9e5d-b07dc3a1998d" alt="chatbot"/>
-
 
 Patients can schedule appointments for at-home medical examinations. For the patients, it is very convenient and easy to use. It provides ENT, dental, eye care and skin treatments. This innovative approach ensures that emergency medical care and examinations are accessible.
