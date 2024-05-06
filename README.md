@@ -56,7 +56,7 @@ Azure Chatbot :- The Azure AI Language Chatbot is a cutting-edge conversational 
 <h3>Role Assignment</h3> 
 <img src="https://github.com/Manohar4333/Medical-Wagon/blob/main/Role%20assignments.jpeg" alt="role assignment"/>
 
-<h3>chatbot</h3> 
+<h3>Chatbot</h3> 
 <img src="https://github.com/Manohar4333/Medical-Wagon/assets/69782144/4c18703d-a83c-4d30-9e5d-b07dc3a1998d" alt="chatbot"/>
 
 <h1>Description</h1>
