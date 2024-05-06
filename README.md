@@ -67,6 +67,7 @@ Here I am attaching the final working website's screenshot for the reference.
 
 
 <h1>Final Project Statement:</h1>
-![Screenshot 2024-05-06 164739](https://github.com/Manohar4333/Medical-Wagon/assets/69782144/2a6316c5-d273-4a35-b83a-b59fe847b5dc)
+C:\Users\venkateswarlu\OneDrive\Music\Chatbot.png
+
 
 Patients can schedule appointments for at-home medical examinations. For the patients, it is very convenient and easy to use. It provides ENT, dental, eye care and skin treatments. This innovative approach ensures that emergency medical care and examinations are accessible.
