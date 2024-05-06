@@ -67,7 +67,7 @@ Here I am attaching the final working website's screenshot for the reference.
 
 
 <h1>Final Project Statement:</h1>
-<h1>C:\Users\venkateswarlu\OneDrive\Music\Chatbot.png</h1>
+<img src="C:\Users\venkateswarlu\OneDrive\Music\Chatbot.png" alt="chatbot"/>
 
 
 Patients can schedule appointments for at-home medical examinations. For the patients, it is very convenient and easy to use. It provides ENT, dental, eye care and skin treatments. This innovative approach ensures that emergency medical care and examinations are accessible.
